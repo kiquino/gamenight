@@ -6,7 +6,7 @@ import './App.css';
 function App() {
 
   const renderer = ({ days,hours, minutes, seconds }) =>{
-    return <div className='contador'><h1>Faltan<br/> {days} días{hours}:{minutes}:{seconds} Hs</h1></div>
+    return <div className='contador'><h1>Faltan <br/> {days} días -{hours}:{minutes}:{seconds} Hs</h1></div>
   }
   return (
     <div className="App">
