@@ -15,7 +15,7 @@ function App() {
         <h1 className='title'>
           NOCHE DE JUEGOS!!
         </h1>
-        <Countdown date={new Date("2022-08-11T00:00:00")} 
+        <Countdown date={new Date("2022-08-12T18:30:00")} 
         precision={2}
         zeroPadTime={2}
         zeroPadDays={2}
