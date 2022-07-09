@@ -22,7 +22,7 @@ function App() {
         now={Date().now}
         renderer={ renderer }
         />
-      <a href="https://www.google.com/calendar/render?action=TEMPLATE&text=Game+Night&details=Son+elegidos+para+ser+aventureros%2C+exploradores%2C+monstruos%2C+guerros+y+monjes+en+esta+NOCHE+DE+JUEGOS%21&location=Casa+Villegas&dates=20220712T014900Z%2Fundefined">AGREGAR A CALENDAR</a>
+      <a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NmhwY2hoM3VmNnY4NjJsNDNxcHN0NTZyZHMga2lxdWlub0Bt&amp;tmsrc=kiquino%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_es.gif" alt=""/>AGREGAR A CALENDAR</a>
       </div>
     </div>
   );
